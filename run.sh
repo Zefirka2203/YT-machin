@@ -1,1 +1,1 @@
-print("Run vasya run")
+print("RUNN vasya run")
